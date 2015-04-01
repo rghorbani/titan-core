@@ -1,0 +1,32 @@
+# ignore netbeans specific stuff
+nbproject
+
+# Can we agree to install binstubs as `bundle install --binstubs=b`?
+b/
+.yardoc
+
+# ignore Rubymine
+.idea
+
+doc
+pkg/
+
+.rvmrc
+.bundle
+tmp
+db/
+
+/titan/
+
+# jedit
+*~
+
+target
+
+# vim
+.*.sw[a-z]
+
+Gemfile.lock
+coverage
+.DS_Store
+
